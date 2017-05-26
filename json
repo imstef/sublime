@@ -1,0 +1,16 @@
+{
+	"always_show_minimap_viewport": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Color Scheme - Default/Mariana.tmTheme",
+	"font_face": "Menlo",
+	"font_size": 14,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"scroll_past_end": true,
+	"theme": "Default.sublime-theme"
+}
